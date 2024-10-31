@@ -68,6 +68,8 @@ An automated bot for managing Dawn rewards with Telegram integration and proxy s
    - http://ip:port@username:password (worked)
    - socks5://ip:port@username:password (not tested)
 
+   also working with unauthenticated proxy `ip:port`
+
 ## 🎮 Usage
 
 Run the bot: 
