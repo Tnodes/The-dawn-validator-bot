@@ -15,15 +15,27 @@ An automated bot for managing Dawn rewards with Telegram integration and proxy s
 
 ### Prerequisites
 
+- Git
 - Python 3.8+
-- Required packages (install via pip):
-  ```bash
-  pip install -r requirements.txt
-  ``` 
-  or
-  ```bash
-  python -m pip install -r requirements.txt --user
-  ```
+
+### How to install
+
+- Clone this repository
+```bash
+git clone https://github.com/Tnodes/The-dawn-validator-bot
+```
+- Move to folder
+```bash
+cd The-dawn-validator-bot
+```
+- Install requirements
+```bash
+pip install -r requirements.txt
+``` 
+or
+```bash
+python -m pip install -r requirements.txt --user
+```
 
 ### How to get telegram token and chat id
 
